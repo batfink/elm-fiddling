@@ -1,0 +1,23 @@
+{
+  "name": "elm-fiddling",
+  "version": "0.0.0",
+  "description": "Just trying out Elm, nothing to see, move on, move on...",
+  "main": "index.js",
+  "scripts": {
+      "init": "elm init",
+      "start": "elm reactor"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/batfink/elm-fiddling.git"
+  },
+  "author": "Victor Nystad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/batfink/elm-fiddling/issues"
+  },
+  "homepage": "https://github.com/batfink/elm-fiddling#readme",
+  "devDependencies": {
+    "elm": "^0.19.0-bugfix2"
+  }
+}
